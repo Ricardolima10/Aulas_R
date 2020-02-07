@@ -15,3 +15,9 @@ grafico <- dados %>%
  theme_minimal() +
  theme(legend.position = "bottom")
 grafico
+
+a = 9
+b = 4
+
+y = a+b
+y
